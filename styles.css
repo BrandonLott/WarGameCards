@@ -40,6 +40,7 @@ body{
     align-items: center;
     font-size: x-large;
     font-weight: bold;
+    user-select: none;
     
 }
 
@@ -60,6 +61,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 4rem;
+    user-select: none;
 }
 
 .card::before,
